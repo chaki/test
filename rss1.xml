@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><description>contact: first.last at gmail
+
+  var _gaq = _gaq || [];
+  _gaq.push([‘_setAccount’, ‘UA-11699305-3’]);
+  _gaq.push([‘_trackPageview’]);
+
+  (function() {
+    var ga = document.createElement(‘script’); ga.type = ‘text/javascript’; ga.async = true;
+    ga.src = (‘https:’ == document.location.protocol ? ‘https://ssl’ : ‘http://www’) + ‘.google-analytics.com/ga.js’;
+    var s = document.getElementsByTagName(‘script’)[0]; s.parentNode.insertBefore(ga, s);
+  })();</description><title>chakify</title><generator>Tumblr (3.0; @chakify)</generator><link>http://chakify.tumblr.com/</link><item><title>"bill" the road warrior</title><description>&lt;img src="http://24.media.tumblr.com/a0463865283323cabf9fbe0f338f5412/tumblr_mzwtk69MOA1qz9qcoo1_500.jpg"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;"bill" the road warrior&lt;/p&gt;</description><link>http://chakify.tumblr.com/post/74383688430</link><guid>http://chakify.tumblr.com/post/74383688430</guid><pubDate>Fri, 24 Jan 2014 09:28:54 -0500</pubDate></item><item><title>frozen window</title><description>&lt;img src="http://31.media.tumblr.com/862f01a06c4e24740d0ff5115ff01ade/tumblr_mzuxcgf8g61qz9qcoo1_500.jpg"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;frozen window&lt;/p&gt;</description><link>http://chakify.tumblr.com/post/74276205739</link><guid>http://chakify.tumblr.com/post/74276205739</guid><pubDate>Thu, 23 Jan 2014 08:55:27 -0500</pubDate></item></channel></rss>

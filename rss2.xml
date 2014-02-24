@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><description>contact: first.last at gmail
+
+  var _gaq = _gaq || [];
+  _gaq.push([‘_setAccount’, ‘UA-11699305-3’]);
+  _gaq.push([‘_trackPageview’]);
+
+  (function() {
+    var ga = document.createElement(‘script’); ga.type = ‘text/javascript’; ga.async = true;
+    ga.src = (‘https:’ == document.location.protocol ? ‘https://ssl’ : ‘http://www’) + ‘.google-analytics.com/ga.js’;
+    var s = document.getElementsByTagName(‘script’)[0]; s.parentNode.insertBefore(ga, s);
+  })();</description><title>chakify</title><generator>Tumblr (3.0; @chakify)</generator><link>http://chakify.tumblr.com/</link><item><title>CDE</title><description>&lt;p&gt;test&lt;/p&gt;</description><link>http://chakify.tumblr.com/post/77552513073</link><guid>http://chakify.tumblr.com/post/77552513073</guid><pubDate>Sat, 22 Feb 2014 23:37:58 -0500</pubDate></item><item><title>Photo</title><description>&lt;img src="http://25.media.tumblr.com/5ff0ed334ea1f5bfadad1df9b8856d5e/tumblr_n1fkbxdUyL1qz9qcoo1_400.jpg"/&gt;&lt;br/&gt;&lt;br/&gt;</description><link>http://chakify.tumblr.com/post/77548855003</link><guid>http://chakify.tumblr.com/post/77548855003</guid><pubDate>Sat, 22 Feb 2014 22:57:33 -0500</pubDate></item><item><title>"absdfasdf"</title><description>“absdfasdf”</description><link>http://chakify.tumblr.com/post/77548316526</link><guid>http://chakify.tumblr.com/post/77548316526</guid><pubDate>Sat, 22 Feb 2014 22:51:37 -0500</pubDate></item><item><title>ABC</title><description>&lt;p&gt;test&lt;/p&gt;</description><link>http://chakify.tumblr.com/post/77547658712</link><guid>http://chakify.tumblr.com/post/77547658712</guid><pubDate>Sat, 22 Feb 2014 22:44:24 -0500</pubDate></item><item><title>your are welcome, miley.  your (website) host, me. ...</title><description>&lt;img src="http://24.media.tumblr.com/4a031fe45699370587340e454e3a5ba0/tumblr_n08x8ug5Nf1qz9qcoo1_500.jpg"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;your are welcome, miley.  your (website) host, me.  #mileyunplugged&lt;/p&gt;</description><link>http://chakify.tumblr.com/post/75113509731</link><guid>http://chakify.tumblr.com/post/75113509731</guid><pubDate>Thu, 30 Jan 2014 22:19:42 -0500</pubDate></item></channel></rss>
